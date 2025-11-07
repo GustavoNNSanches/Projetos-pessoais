@@ -1,4 +1,4 @@
-\# Ábaco para impressão 3d SLA
+# Ábaco para impressão 3d SLA
 
 
 
@@ -6,19 +6,19 @@ Primeira experiência com uma impressora SLA.
 
 
 
-\## Especificações
+## Especificações
 
 
 
-\*\*Impressora:\*\* Elegoo Mars 3
+**Impressora:** Elegoo Mars 3
 
-\*\*Resina:\*\* Elegoo water washable - Ceramic grey
+**Resina:** Elegoo water washable - Ceramic grey
 
-\*\*Fatiador:\*\* Chitubox
+**Fatiador:** Chitubox
 
 
 
-\##Objetivos
+## Objetivos
 
 
 
@@ -28,7 +28,7 @@ Primeira experiência com uma impressora SLA.
 
 
 
-\##Conclusão
+##Conclusão
 
 
 
@@ -42,7 +42,7 @@ A precisão dimensional do método SLA é extremamente alta. Apesar das distorç
 
 
 
-\##Status
+## Status
 
 
 
@@ -50,7 +50,9 @@ Finalizado
 
 
 
-\#Contato
+# Contato
+
 gustavonnsanches@usp.br
+
 +55 (11) 98884-0842 (São Paulo)
 
